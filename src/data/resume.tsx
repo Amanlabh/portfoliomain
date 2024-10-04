@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Aman Labh",
   initials: "AL",
-  url: "https://dillion.io",
+  url: "https://amanlabh.me",
   location: "Punjab, India",
   locationLink: "https://www.google.com/maps/place/Lovely+Professional+University/@31.255992,75.7025686,17z/data=!3m1!4b1!4m6!3m5!1s0x391a5f5e9c489cf3:0x4049a5409d53c300!8m2!3d31.255992!4d75.7051435!16s%2Fm%2F02wbfhd?entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D",
   description:
@@ -33,8 +33,8 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "aman@kachnibharni.com",
+    tel: "+919835345179",
     social: {
       GitHub: {
         name: "GitHub",
@@ -73,10 +73,10 @@ export const DATA = {
     //  },
       email: {
         name: "Send Email",
-        url: "#",
+        url: "aman@kachnibharni.com",
         icon: Icons.email,
 
-        navbar: false,
+        navbar: true,
       },
     },
   },
