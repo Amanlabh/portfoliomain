@@ -73,7 +73,7 @@ export const DATA = {
     //  },
       email: {
         name: "Send Email",
-        url: "aman@kachnibharni.com",
+        url: "mailto:aman@kachnibharni.com",
         icon: Icons.email,
 
         navbar: true,
