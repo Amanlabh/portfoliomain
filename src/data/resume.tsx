@@ -10,9 +10,10 @@ export const DATA = {
   description:
     "Co-Founder Kachnibharni, Full Stack Developer , Part-time Freelancer . I love building things on Internet. Very active on Linkedin & Github. Read my blogs, turn on some music and  stay tuned with me.",
   summary:
-    "Btech CSE Pre-final year student , Exploring open source  Projects. Learning Blockchain Technology and Cross-Platform Development with react native. and [competed in over 10+ hackathons for fun](/#hackathons). Currently Building [Sexbomb.in](#link) & [Kachnibharni.com](https://www.linkedin.com/in/aman-labh-95a205216/) , Contributing Hacktober-Fest-2024 ",
+    "Btech CSE Pre-final year student , Exploring open source  Projects. Learning Blockchain Technology and Cross-Platform Development with react native. and [competed in over 10+ hackathons for fun](/#hackathons). Currently Building [Sexbomb](#link) & [Kachnibharni.com](https://www.linkedin.com/in/aman-labh-95a205216/) , Contributing Hacktober-Fest-2024 ",
   avatarUrl: "/me.png",
   skills: [
+    "Flutter",
     "React",
     "React-Native",
     "Next.js",
@@ -20,6 +21,7 @@ export const DATA = {
     "Node.js",
     "MongoDB",
     "Appwrite",
+    "Firebase",
     "Postgres",
     "Docker",
     "Kubernetes",
@@ -27,6 +29,7 @@ export const DATA = {
     "Odoo",
     "Payload CMS",
     "Wordpress",
+    "Sanity",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -73,7 +76,7 @@ export const DATA = {
     //  },
       email: {
         name: "Send Email",
-        url: "mailto:aman@kachnibharni.com",
+        url: "mailto:amanlabh4@gmail.com",
         icon: Icons.email,
 
         navbar: true,
