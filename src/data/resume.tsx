@@ -8,31 +8,36 @@ export const DATA = {
   location: "Punjab, India",
   locationLink: "https://www.google.com/maps/place/Lovely+Professional+University/@31.255992,75.7025686,17z/data=!3m1!4b1!4m6!3m5!1s0x391a5f5e9c489cf3:0x4049a5409d53c300!8m2!3d31.255992!4d75.7051435!16s%2Fm%2F02wbfhd?entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D",
   description:
-    "Co-Founder Kachnibharni, Full Stack Developer , Part-time Freelancer . I love building things on Internet. I use Ai assitance to get my work done real quick. Very active on Linkedin & Github. Read my blogs, turn on some music and  stay tuned with me.",
+    "I am a Self Taught Full Stack Developer  , Kneen intrest in Cloud and Devops. I love building things on Internet. I use Ai assitance to get my work done real quick. Very active on Linkedin & Github. Read my blogs, turn on some music and  stay tuned with me.",
   summary:
-    "Btech CSE Pre-final year student , Exploring open source  Projects. Learning Blockchain Technology and Cross-Platform Development with Flutter. and [competed in over 10+ hackathons for fun](/#hackathons). Currently Building [Sexbomb](#link) & [Kachnibharni.com](https://www.linkedin.com/in/aman-labh-95a205216/) , Contributing Hacktober-Fest-2024 ",
+    "Btech CSE Pre-final year student , Exploring open source  Projects. Learning Flutter. and [competed in over 10+ hackathons for fun](/#hackathons). Currently Building a Platform for painting artist to Create , Connect , Sell and organise events [Kachnibharni.com](https://www.linkedin.com/in/aman-labh-95a205216/) . ",
   avatarUrl: "/me.png",
   skills: [
+    "Java",
+    "Javascript",
+    "Python",
+    "CPP",
     "Flutter",
     "React",
-    "React-Native",
     "Next.js",
+    "V0",
+    "Shadcn/UI",
     "Nest.js",
     "Typescript",
     "Node.js",
     "MongoDB",
-    "Appwrite",
     "Firebase",
     "Postgres",
+    "AWS",
+    "Google cloud Console",
+    "Microsoft Azure",
     "Docker",
     "Kubernetes",
+    "jennekins",
     "Linux",
     "Odoo",
-    "Payload CMS",
     "Wordpress",
     "Sanity",
-    "V0",
-    "Shadcn/UI",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -88,18 +93,7 @@ export const DATA = {
   },
 
   work: [
-    {
-      company: "kachniBharni",
-      href: "https://kachni.com",
-      badges: [],
-      location: "INDIA",
-      title: "Co-Founder , Software Engineer ",
-      logoUrl: "/splunk.png",
-      start: "November 2023",
-      end: "Present",
-      description:
-        "Developing a prototype Android and IOS app with React-Native and Appwrite.",
-    },
+    
     
     {
       company: "WebcoinLabs",
@@ -108,34 +102,38 @@ export const DATA = {
       location: "Remote",
       title: "Web-Developer",
       logoUrl: "/atomic.png",
-      start: "september 2022",
-      end: "Present",
+      start: "september 2023",
+      end: "October 2024",
       description:
         "Enhancing Frontend with Nextjs.",
     },
+    
     {
-      company: "Sexbomb.in",
-      badges: [],
-      href: "https://sexbomb.in",
-      location: "Remote",
-      title: "Fullstack Web-Developer",
-      logoUrl: "/shopify.png",
-      start: "August 2024",
-      end: "Present",
-      description:
-        "Building Fullstack E-commerce with NEXTjs , Implemented a custom CMS with odoo to manage Admin side portal & to ease  product and system managment, Integrated Razorpay Payment Gateway , Working with shiprocket for Product Delhivery  "},
-    {
-      company: "JP-Morgan Online job simulation",
-      href: "https://jpmorgan.com/",
+      company: "Outlier",
+      href: "https://webcoinlabs.com",
       badges: [],
       location: "Remote",
-      title: "Software Engineer",
-      logoUrl: "/nvidia.png",
-      start: "June 2024",
-      end: "July 2024",
+      title: "LLM model trainer",
+      logoUrl: "data:image/jpeg;base64,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",
+      start: "December 2024",
+      
       description:
-        "Interface with a stock price data feed Use JPMorgan Chase & Co. frameworks and tools Display data visually for traders Bonus task: Open source contribution",
+        "",
     },
+    {
+      company: "Automation Tool",
+      href: "https://webcoinlabs.com",
+      badges: [],
+      location: "Remote",
+      title: "Automattion tool to extract data from hand clicked image  with OCR to Convert in to DOC , xlsx and pdf formart ",
+      logoUrl: "https://img.freepik.com/premium-vector/automation-vector-flat-icon-design-illustration-symbol-white-background-eps-10-file_848977-1627.jpg?semt=ais_hybrid",
+      start: "November 2024",
+      end: "November 2024",
+      description:
+        "Used Gemeni AI to API to align it and correct the blured text in the image",
+    },
+   
+   
    
    
   ],
@@ -182,7 +180,7 @@ export const DATA = {
     },
     {
       title: "Webcoinlabs UI",
-      href: "https://webcoinlabs",
+      href: "https://webcoinlabs.com",
       dates: "June 2024 - Present",
       active: true,
       description:
@@ -198,16 +196,36 @@ export const DATA = {
         "Magic UI",
       ],
       links: [
+        
+      ],
+      image: "",
+      video: "https://cdn.magicui.design/bento-grid.m",
+    },
+    {
+      title: "PDF to QUiZ GENERATOR AI",
+      href: "https://ai10question.vercel.app/",
+      dates: "January 2025",
+      active: true,
+      description:
+        "Designed, developed a PDF to QUIZ generator with Gemmeni AI to help students with their Mock test befor  exam. ",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "SUPABASE",
+        "AI",
+        "TailwindCSS",
+
+       
+        "Shadcn UI",
+        "Magic UI",
+      ],
+      links: [
         {
           type: "Website",
-          href: "https://webcoinlabs",
+          href: "https://ai10question.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
-        {
-          type: "Source",
-          href: "https://github.com/",
-          icon: <Icons.github className="size-3" />,
-        },
+       
       ],
       image: "",
       video: "https://cdn.magicui.design/bento-grid.m",
