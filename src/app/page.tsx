@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 p-4 pb-16 sm:p-8 sm:pb-20 font-sans text-gray-100">
-      <main className="max-w-2xl mx-auto flex flex-col gap-8 sm:gap-12">
+      <main className="max-w-2xl mx-auto flex flex-col gap-6 sm:gap-12">
         {/* Profile Section */}
         <div className="bg-gray-800 p-6 sm:p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 border border-gray-700">
           <h1 className="text-3xl sm:text-4xl font-bold text-white mb-4 text-center sm:text-left">
@@ -65,7 +65,7 @@ export default function Home() {
         </div>
       </main>
 
-     
+      
     </div>
   );
 }
