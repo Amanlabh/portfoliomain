@@ -65,57 +65,7 @@ export default function Home() {
         </div>
       </main>
 
-      {/* Footer Section */}
-      <footer className="mt-12 flex flex-wrap gap-4 sm:gap-6 items-center justify-center w-full">
-        <a
-          className="flex items-center gap-2 text-sm sm:text-base text-gray-300 hover:text-white hover:underline hover:underline-offset-4 transition-colors duration-300"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-            className="filter invert"
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 text-sm sm:text-base text-gray-300 hover:text-white hover:underline hover:underline-offset-4 transition-colors duration-300"
-          href="https://Assignmate.works"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-            className="filter invert"
-          />
-          Blog
-        </a>
-        <a
-          className="flex items-center gap-2 text-sm sm:text-base text-gray-300 hover:text-white hover:underline hover:underline-offset-4 transition-colors duration-300"
-          href="https://medium.com/@hackaman4"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-            className="filter invert"
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+     
     </div>
   );
 }
