@@ -13,10 +13,10 @@ export default function Home() {
             I&apos;m a self-taught full stack developer; CS student, open-source enthusiast. I am currently building <strong className="text-blue-600">Kachni Bharni</strong>, a platform for artists to showcase their work.
           </p>
           <p className="text-sm sm:text-base text-gray-700 mb-4 text-center sm:text-left">
-            At present, I am working as a full stack developer at <strong className="text-blue-600">Motojojo Pvt. Ltd.</strong> Also, I am assisting <strong className="text-blue-600">DU Desk</strong> as a Gen-AI Engineer as a Freelancer. Building my concept of targeting the right audience and solving their problems with my engineering skills.
+            At present, I am working as a full stack developer at <strong className="text-blue-600">Motojojo Pvt. Ltd.</strong> Also, I am assisting <strong className="text-blue-600">DU Desk</strong> as a Gen-AI Engineer as a Freelancer. I specialize in automating workflows and building intelligent systems using Agentic AI and Generative AI technologies.
           </p>
           <p className="text-sm sm:text-base text-gray-700 text-center sm:text-left">
-            I&apos;m constantly building wild projects and diving deep into learning blockchain on the Solana Chain. Sometimes, I get caught up in writing blog posts, and I&apos;m always vibing to random music. Along the way, I also find myself exploring philosophy, trying to find peace amidst my chaotic mind.
+            I&apos;m constantly building wild projects and diving deep into AI automation. Sometimes, I get caught up in writing blog posts, and I&apos;m always vibing to random music. Along the way, I also find myself exploring philosophy, trying to find peace amidst my chaotic mind.
           </p>
         </div>
 
@@ -54,15 +54,19 @@ export default function Home() {
           </p>
           <p className="text-sm sm:text-base text-gray-700 mb-4 text-center sm:text-left">
             Help me fund my server⛁ costs and coffee ☕ addiction:
-            <br />
-          
-            <strong className="text-blue-600">UPI:</strong> amanlabh4@slc
-            <br />
-            <a href="https://buymeacoffee.com/amanlabh4x" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-500 hover:underline">
-              Buy Me a Coffee
-            </a>
           </p>
-          <p className="text-sm sm:text-base text-gray-700 text-center sm:text-left">
+          <div className="flex justify-center sm:justify-start">
+            <a 
+              href="https://buymeacoffee.com/amanlabh4x" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-medium py-2 px-4 rounded-lg shadow-md hover:shadow-lg transition-all duration-300 flex items-center gap-2"
+            >
+              <span>Buy Me a Coffee</span>
+              <span>☕</span>
+            </a>
+          </div>
+          <p className="text-sm sm:text-base text-gray-700 mt-4 text-center sm:text-left">
             Say hi at <a href="mailto:hey@amanlabh.me" className="text-blue-600 hover:text-blue-500 hover:underline">hey@amanlabh.me</a>
           </p>
         </div>
